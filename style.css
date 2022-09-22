@@ -39,7 +39,6 @@ section#telefone {
 section#redes-sociais img {
     width: 50px;
     margin: 10px;
-    margin-left: 20px;
     border-radius: 50%;
     box-shadow: 2px 2px 4px rgba(255, 255, 255, 0.39);
     box-sizing: border-box;
@@ -52,7 +51,7 @@ section#redes-sociais img:hover {
 }
 
 section#redes-sociais {
-    text-align: right;
+    text-align: left;
 }
 
 iframe#tela {
